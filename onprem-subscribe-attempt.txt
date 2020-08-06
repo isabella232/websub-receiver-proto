@@ -1,0 +1,464 @@
+
+> podbot-websub-proto@1.0.0 subscribe /Users/kaivon/Dev/podbot-websub-proto
+> node src/subscriber.js
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://podcasts.vpr.net/outdoor-radio
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=c476cb99
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/Classical101Podcasts
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=bdc0886c
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://podcasts.vpr.net/all-things-gardening
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=5f85ccc8
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/WestVirginaMorning
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=2958159f
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/InsideAppalachia
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=51c5262a
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://podcasts.vpr.net/vermont-edition
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=11bb1bd
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/wuwmnews
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=6275c26f
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/WUNC_SOT
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=973dc820
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/legtodaypodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=1159134f
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/gweek
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=8460c363
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/iia
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=85193859
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/kpdpodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=85b8e727
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/WUNC_Heartbeat2
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=7e37a342
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/three-broke-mice
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=327a2ea5
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/WUNC_americansongster
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=ea2f9fb3
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://podcasts.vpr.net/brave-little-state
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=141cab44
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/thenextlouisvillepodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=e6840a70
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/kafpodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=a313f474
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/WUNC_SongsWeLove
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=c74865ac
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/curiouslouisvillepodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=4c6b0a8a
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/truefalse
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=4313fe93
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/projectmilwaukee
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=1dd4560d
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/ViewsOnKBIA
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=81e29ee6
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/youthradiopodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=9d8a8ba8
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/howdidyoudothat
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=e2e30820
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://feeds.podtrac.com/DYqWlnI0jRcN
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=5c8b9d81
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/bubblertalk
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=c351a06
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/WUNCPolitics
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=ff629de0
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/mountainstagepodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=d3b818e9
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/ftbraggstories
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=ddf0867e
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/WUNC_occasionalshivers
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=e4200a50
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/fivethingspodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=4a39e7cb
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/capitolnotes
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=42949b77
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://podcasts.vpr.net/timeline
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=9d4497c6
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://podcasts.vpr.net/my-heart-still-beats
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=93aa18e1
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/rivetpodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=8a211aba
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/heretodaypodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=e53a7225
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://podcasts.vpr.net/jolted
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=34dddc41
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/toughanduniversalpodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=93eaeebf
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/obvious-question
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=a70b48c0
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/wunc_newscast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=2ab33942
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://podcast.coloredgirlbeautiful.com
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=b88614b6
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://podcasts.vpr.net/the-frequency
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=e249672d
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/inconversationpodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=d2b39d72
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/thesemiraclesworkpodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=2e32a1f8
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/sayyespodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=679c90bc
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/kentuckianasoundspodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=30d4b3e6
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/beatsme
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=d193b4b1
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/lakeffectsegments
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=2f344fb9
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/wunc_tested
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=d1672e5f
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.ktoo.org/Gardentalk-Juneau
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=c7243b2b
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/digpodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=4e7fbe72
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/show-me-the-state
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=d6f19990
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feedpress.me/cultivatingplace
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=25a17987
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://wfae.report/insidepolitics/feed/podcast/
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=f4307c36
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://anchor.fm/s/c11752c/podcast/rss
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=98c147e7
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://anchor.fm/s/82351b0/podcast/rss
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=9229bf98
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://www.nocturnepodcast.org/feed/podcast/
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=c685cd0e
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://anchor.fm/s/c3c6304/podcast/rss
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=2355a645
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://www.wmfe.org/category/wmfe-intersection-podcast/feed/podcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=240d03a6
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://www.wuft.org/news/category/podcast/unvarnished/feed/
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=bf0cb709
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://anchor.fm/s/1d13d9c8/podcast/rss
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=11184766
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://anchor.fm/s/e70b0bc/podcast/rss
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=eeb7ad06
+
+Status: 202
+Hub: https://simplecast.superfeedr.com/
+Topic: https://feeds.simplecast.com/YRS1HazA
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=29c7d7db
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: http://radioopensource.org/feed/
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=7ed07cc9
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://www.peoplespharmacy.com/feed/podcast/
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=6d0e9a7c
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://www.wmfe.org/category/growing-bolder/feed/podcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=91f6b3be
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.ktoo.org/curiousjuneau
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=c4073e2b
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://www.wmfeindepth.org/category/storycorps/feed
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=9e7e4c49
+
+Status: 202
+Hub: https://simplecast.superfeedr.com/
+Topic: https://feeds.simplecast.com/ZL7iUDiH
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=16c5e838
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://anchor.fm/s/963d7fc/podcast/rss
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=16387efd
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://rss.simplecast.com/podcasts/3963/rss
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=372434d3
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://anchor.fm/s/22b6608/podcast/rss
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=3fdf207d
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://feeds.feedblitz.com/KRCBWordByWord
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=e0f32ea3
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://feeds.feedblitz.com/KRCBANovelIdea
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=2a8d3c2e
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com
+Topic: https://feeds.captivate.fm/thewellwomanshow/
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=3c6498f5
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://rss.simplecast.com/podcasts/3135/rss
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=98cbc298
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com
+Topic: https://feeds.captivate.fm/no-cover/
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=bf895e86
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://www.wuft.org/blog/category/tell-me-about-it/feed/
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=4c2f52d6
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://www.wmfe.org/category/life-after-pulse/feed/
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=2ff5aaf
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://theintern.libsyn.com/rss
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=6c7d14f8
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://www.wmfe.org/category/are-we-there-yet/feed/podcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=f4b7a523
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://feed.pippa.io/public/shows/5a558fa53886138a16a4cc65
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=32462107
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://onbeing.org/podcasts/becoming-wise.xml
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=1e60d15f
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://rss.simplecast.com/podcasts/2227/rss
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=ee5124f9
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://feeds.feedblitz.com/KRCBNorthBayReport
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=170d5283
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://feeds.louisville.org/kylemeredithpodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=8283ae0d
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://feeds.louisville.org/strangefruitpodcast
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=85cdb9fc
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://safespaceradio.com/feed/podcast/
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=30cb3e6c
+
+Status: 202
+Hub: http://feedpress.superfeedr.com/
+Topic: https://podcasts.vpr.net/but-why
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=e8259cf5
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://feeds.feedblitz.com/KRCBSonomaSpotlight
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=182a51ef
+
+Status: 202
+Hub: https://pubsubhubbub.appspot.com/
+Topic: https://feeds.feedblitz.com/KRCBSecondRowCenter
+Callback: https://fjhsjynz6f.execute-api.us-east-1.amazonaws.com/dev/receiver?id=24ca16e9
+

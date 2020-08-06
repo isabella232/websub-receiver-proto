@@ -1,0 +1,32 @@
+{
+  "name": "podbot-websub-proto",
+  "version": "1.0.0",
+  "description": "websub receiver prototype for npr's podbot",
+  "main": "src/handler.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "csv-parse": "^4.11.1",
+    "koa": "^2.13.0",
+    "koa-router": "^9.1.0",
+    "lodash": "^4.17.19",
+    "qs": "^6.9.4",
+    "serverless-http": "^2.5.0",
+    "short-hash": "^1.0.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "serverless-offline": "^6.5.0"
+  },
+  "engines": {
+    "node": "^12.13.1",
+    "npm": "^6.12.1"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "subscribe": "node src/subscriber.js",
+    "deploy": "serverless deploy -v",
+    "deploy-invoke": "serverless deploy -v && serverless invoke -f hello"
+  },
+  "author": "kaivon",
+  "license": "ISC"
+}
